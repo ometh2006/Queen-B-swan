@@ -135,7 +135,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 	
 	
-<mp4 src="https://telegra.ph/file/a45c9911e54ed29e8e3af.mp4" alt="nz" width="350"/>
+<p align="center">
+<img src="https://telegra.ph/file/41fd48152cbf81fd71805.jpg" alt="nz" width="350"/>
 </p>
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
