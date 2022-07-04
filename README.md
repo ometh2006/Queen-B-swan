@@ -136,7 +136,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 	
 	
 <p align="center">
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="600"/>
+<img src="https://telegra.ph/file/a45c9911e54ed29e8e3af.mp4" alt="nz" width="600"/>
 </p>
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
