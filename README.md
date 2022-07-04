@@ -40,8 +40,8 @@ Add FFmpeg to PATH environment variable
 
 </details>
 
-<p align="center">
-<vid src="https://telegra.ph/file/a45c9911e54ed29e8e3af.mp4" alt="nz" width="350"/>
+
+<mp4 src="https://telegra.ph/file/a45c9911e54ed29e8e3af.mp4" alt="nz" width="350"/>
 </p>
 
 <!-- Installation via Termux -->
